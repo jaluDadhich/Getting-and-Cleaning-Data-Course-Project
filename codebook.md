@@ -1,11 +1,8 @@
-# Code Book
+# MY Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+code book for  data fields in `tidy.txt`.
 
-## Identifiers
 
-* `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken
 
 ## Measurements
 
@@ -88,6 +85,13 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 * `fBodyBodyGyroJerkMagMean`
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
+
+
+## Two Identifiers
+
+* `subject` - The ID of the test subject
+* `activity` - The type of activity performed when the corresponding measurements were taken
+
 
 ## Activity Labels
 
